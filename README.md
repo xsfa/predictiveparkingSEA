@@ -1,1 +1,1 @@
-# predictiveparkingSEA
+# Seattle Predictive Parking Research Project
